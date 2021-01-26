@@ -1,7 +1,7 @@
 ### Hi there🍵
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ym6ru&theme=merko&show_icons=true&count_private=true)
-
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ym6ru&layout=compact&theme=merko)
 
 <!--
 **ym6ru/ym6ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
