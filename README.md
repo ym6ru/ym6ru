@@ -1,6 +1,6 @@
 ### Hi there🍵
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ym6ru&theme=merko)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ym6ru&theme=merko&show_icons=true&count_private=true)
 
 
 <!--
